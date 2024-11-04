@@ -38,7 +38,7 @@ msgstr "Alavalikon lista"
 #: /1080i/Custom_1115_Dialog_Shortcuts_Window.xml
 msgctxt "#31004"
 msgid "Sets the current hub to be used as the default home window."
-msgstr "Asettaa tämän hubin kotivalikon vakionäkymäksi."
+msgstr "Asettaa valitun hubin kotivalikon vakionäkymäksi."
 
 #: /1080i/Custom_1115_Dialog_Shortcuts_Window.xml
 msgctxt "#31005"
@@ -52,7 +52,7 @@ msgstr "Sijainti"
 #: /1080i/Includes_Shortcuts_Window.xml
 msgctxt "#31007"
 msgid "Changes the header label shown at the top of the hub window."
-msgstr "Muuttaa hubin ylänurkassa näkyvän otsikkotekstin."
+msgstr "Määrittää hubin ylänurkassa näkyvän otsikkotekstin."
 
 #: /1080i/Includes_Shortcuts_Window.xml
 msgctxt "#31008"
@@ -87,7 +87,7 @@ msgstr "Muutokset tallennetaan automaattisesti."
 #: /1080i/Includes_Shortcuts_Window.xml
 msgctxt "#31014"
 msgid "Prebuilt default widget sets are available from the \"Prebuilt\" icon."
-msgstr "Valmiit oletus-widgetit ovat valittavissa \"Esiasetus\"-kuvakkeella."
+msgstr "Vakio-widgetit ovat valittavissa \"Esiasetus\"-kuvakkeesta ruudun alareunasta."
 
 msgctxt "#31015"
 msgid "Order"
@@ -383,7 +383,7 @@ msgstr "Lisätietoja"
 #: /1080i/Includes_Labels.xml
 msgctxt "#31078"
 msgid "The prebuilt icon provides options to install various different default widget and menu sets."
-msgstr "Esiasetukset-kuvake tarjoaa valikoiman erilaisia valmiita widgetejä ja valikoita."
+msgstr "Esiasetus-kuvake tarjoaa valikoiman erilaisia valmiita widgetejä ja valikoita."
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31079"
@@ -774,7 +774,7 @@ msgstr "TALLENNA"
 #: /1080i/Custom_1115_Dialog_Shortcuts_Window.xml
 msgctxt "#31161"
 msgid "Edit the widgets shown in the hub."
-msgstr "Muokkaa hubissa näkyvät widgetit."
+msgstr "Määritä hubissa käytetyt widgetit."
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31162"
@@ -1316,6 +1316,16 @@ msgctxt "#31277"
 msgid "Ensure that your device has an alternative mode of accessing the menu and settings before selecting this option."
 msgstr "Varmista$COMMA että laitteellasi saa avattua päävalikon ja asetusvalikon jollain vaihtoehtoisella tavalla."
 
+#: /1080i/Custom_1115_Dialog_Shortcuts_Window.xml
+msgctxt "#31278"
+msgid "Switch the hub from a basic widgets-only layout to more advanced modes with additional features."
+msgstr "Vaihda hub yksinkertaisesta widget-tilasta edistyneempään tilaan, jossa on enemmän ominaisuuksia."
+
+#: /1080i/Custom_1115_Dialog_Shortcuts_Window.xml
+msgctxt "#31280"
+msgid "Basic is a simple widgets-only mode."
+msgstr "Perus tarkoittaa yksinkertaista widget-tyyliä."
+
 msgctxt "#31279"
 msgid "Studio icons"
 msgstr "Studiokuvakkeet"
@@ -1393,18 +1403,6 @@ msgctxt "#31296"
 msgid "Press down for playlist"
 msgstr "Näytä toistolista painamalla alas"
 
-msgctxt "#31294"
-msgid "Press down for bookmarks and chapters"
-msgstr "Näytä kirjanmerkit ja kappaleet painamalla alas"
-
-msgctxt "#31295"
-msgid "Press down for channels"
-msgstr "Näytä kanavalista painamalla alas"
-
-msgctxt "#31296"
-msgid "Press down for playlist"
-msgstr "Näytä toistolista painamalla alas"
-
 #: /1080i/SkinSettings.xml
 msgctxt "#31297"
 msgid "Extra fanart"
@@ -1442,6 +1440,16 @@ msgctxt "#31304"
 msgid "lists"
 msgstr "listat"
 
+#: /1080i/Custom_1115_Dialog_Shortcuts_Window.xml
+msgctxt "#31305"
+msgid "Detailed adds an information panel."
+msgstr "Yksityiskohtainen tila lisää infopaneelin."
+
+#: /1080i/Custom_1115_Dialog_Shortcuts_Window.xml
+msgctxt "#31306"
+msgid "Advanced adds categories and spotlights."
+msgstr "Edistynyt tila lisää kategoriat ja spotlightin."
+
 #: /1080i/Includes_DialogInfo.xml
 msgctxt "#31307"
 msgid "Instrument"
@@ -1477,6 +1485,16 @@ msgctxt "#31313"
 msgid "Always visible"
 msgstr "Aina näkyvissä"
 
+#: /1080i/Custom_1115_Dialog_Shortcuts_Window.xml
+msgctxt "#31314"
+msgid "Advanced mode is only available in horizontal hub windows."
+msgstr "Edistynyt tila on käytössä vain vaakasuuntaisissa hubeissa."
+
+#: /1080i/Custom_1115_Dialog_Shortcuts_Window.xml
+msgctxt "#31315"
+msgid "Hub windows other than classic home may not have access to the settings window in their default configuration."
+msgstr "Hubeista ei ole vakioasetuksilla pääsyä asetusvalikkoon."
+
 #: /1080i/Includes_MediaFilter.xml
 msgctxt "#31319"
 msgid "View"
@@ -1510,7 +1528,7 @@ msgstr "Valitse kategorian spotlight"
 #: /1080i/Custom_1116_Dialog_Shortcuts.xml
 msgctxt "#31328"
 msgid "Edit widgets"
-msgstr "Muokkaa widgetejä"
+msgstr "Widgetin muokkaus"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31329"
