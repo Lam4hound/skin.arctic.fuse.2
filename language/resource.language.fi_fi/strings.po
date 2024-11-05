@@ -1184,7 +1184,7 @@ msgstr "Värillinen korostus"
 
 msgctxt "#31248"
 msgid "Building includes"
-msgstr "Rakennetaan valikoita"
+msgstr "Käsitellään includes-tiedostoa"
 
 msgctxt "#31249"
 msgid "Waiting for PVR"
@@ -2102,12 +2102,12 @@ msgstr "tekijä"
 #: /1080i/Includes_Views_List.xml
 msgctxt "#31479"
 msgid "List Media"
-msgstr "Lista Media"
+msgstr "Lista (media)"
 
 #: /1080i/Includes_Views_List.xml
 msgctxt "#31480"
 msgid "List Flixart"
-msgstr "Lista Flixart"
+msgstr "Lista (flixart)"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31481"
@@ -2397,7 +2397,7 @@ msgstr "Juliste ja teksti"
 #: /1080i/Includes_Views_List.xml
 msgctxt "#31559"
 msgid "List Details"
-msgstr "Lista Tiedot"
+msgstr "Lista (tiedot)"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31560"
