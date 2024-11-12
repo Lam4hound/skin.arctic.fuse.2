@@ -327,7 +327,7 @@ msgstr "Luoja"
 #: /1080i/Includes_Search.xml
 msgctxt "#31066"
 msgid "Discover"
-msgstr "Etsi"
+msgstr "Löydä"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31067"
@@ -2211,8 +2211,8 @@ msgstr "Tuotannossa"
 
 #: /1080i/Includes_Search.xml
 msgctxt "#31500"
-msgid "There were no [LOWERCASE]$VAR[Label_Setting_SearchStyle][/LOWERCASE] results found for"
-msgstr "Hakutuloksia ei löytynyt [LOWERCASE]$VAR[Label_Setting_SearchStyle][/LOWERCASE] termille"
+msgid "There were no [LOWERCASE]$VAR[Label_SearchStyle][/LOWERCASE] results found for"
+msgstr "$VAR[Label_SearchStyle] ei löytänyt osumia termillä"
 
 #: /1080i/Includes_Search.xml
 msgctxt "#31501"
